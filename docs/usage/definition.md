@@ -28,7 +28,8 @@ this term belongs to.
 
     ``` markdown
     *demo:my_term1*
-    :   Definition of my_term 1
+    :  This is the 2-line definition...
+       ... of my_term 1
 
     demo:my_term2
     :   Definition of my_term 2 
@@ -38,7 +39,8 @@ this term belongs to.
     ```
 
     *demo:my_term1*
-    :   Definition of my_term 1
+    :   This is the 2-line definition...
+        of my_term 1
 
 ## Text Formatting
 
